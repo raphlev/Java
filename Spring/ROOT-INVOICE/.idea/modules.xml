@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ANNOTATION_CONFIG/ANNOTATION_CONFIG1.iml" filepath="$PROJECT_DIR$/../ANNOTATION_CONFIG/ANNOTATION_CONFIG1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ANNOTATION_PROPERTY_VALUE/ANNOTATION_PROPERTY_VALUE.iml" filepath="$PROJECT_DIR$/../ANNOTATION_PROPERTY_VALUE/ANNOTATION_PROPERTY_VALUE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ASSOCIATION_REST/ASSOCIATION_REST.iml" filepath="$PROJECT_DIR$/../ASSOCIATION_REST/ASSOCIATION_REST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AUTOWIRING_BYNAME_BYTYPE/AUTOWIRING_BYNAME_BYTYPE.iml" filepath="$PROJECT_DIR$/../AUTOWIRING_BYNAME_BYTYPE/AUTOWIRING_BYNAME_BYTYPE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AUTO_CONFIGURATION/AUTO_CONFIGURATION.iml" filepath="$PROJECT_DIR$/../AUTO_CONFIGURATION/AUTO_CONFIGURATION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CLIENT_REGISTRATION/CLIENT_REGISTRATION.iml" filepath="$PROJECT_DIR$/../CLIENT_REGISTRATION/CLIENT_REGISTRATION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../COMPONENT_SCAN/COMPONENT_SCAN.iml" filepath="$PROJECT_DIR$/../COMPONENT_SCAN/COMPONENT_SCAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CONFIGURATION_BEANS/CONFIGURATION_BEANS.iml" filepath="$PROJECT_DIR$/../CONFIGURATION_BEANS/CONFIGURATION_BEANS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CONFLIT_DEPENDANCES/CONFLIT_DEPENDANCES.iml" filepath="$PROJECT_DIR$/../CONFLIT_DEPENDANCES/CONFLIT_DEPENDANCES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CONTENEUR_LEGER/CONTENEUR_LEGER.iml" filepath="$PROJECT_DIR$/../CONTENEUR_LEGER/CONTENEUR_LEGER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CONTRAT/CONTRAT.iml" filepath="$PROJECT_DIR$/../CONTRAT/CONTRAT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CONTROLLER/CONTROLLER.iml" filepath="$PROJECT_DIR$/../CONTROLLER/CONTROLLER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DECOUPAGE_MICROSERVICES/DECOUPAGE_MICROSERVICES.iml" filepath="$PROJECT_DIR$/../DECOUPAGE_MICROSERVICES/DECOUPAGE_MICROSERVICES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ECRITURE_CONCEPTION/ECRITURE_CONCEPTION.iml" filepath="$PROJECT_DIR$/../ECRITURE_CONCEPTION/ECRITURE_CONCEPTION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ECRITURE_DATA/ECRITURE_DATA.iml" filepath="$PROJECT_DIR$/../ECRITURE_DATA/ECRITURE_DATA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ENTITES_ET_DONNEES/ENTITES_ET_DONNEES.iml" filepath="$PROJECT_DIR$/../ENTITES_ET_DONNEES/ENTITES_ET_DONNEES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EUREKA_SERVER/EUREKA_SERVER.iml" filepath="$PROJECT_DIR$/../EUREKA_SERVER/EUREKA_SERVER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EXPERIMENTER_LOAD_BALANCING/EXPERIMENTER_LOAD_BALANCING.iml" filepath="$PROJECT_DIR$/../EXPERIMENTER_LOAD_BALANCING/EXPERIMENTER_LOAD_BALANCING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EXPLOITER_WEBSERVICE/EXPLOITER_WEBSERVICE.iml" filepath="$PROJECT_DIR$/../EXPLOITER_WEBSERVICE/EXPLOITER_WEBSERVICE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FETCH/FETCH.iml" filepath="$PROJECT_DIR$/../FETCH/FETCH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FORM/FORM.iml" filepath="$PROJECT_DIR$/../FORM/FORM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FORM_VALIDATION/FORM_VALIDATION.iml" filepath="$PROJECT_DIR$/../FORM_VALIDATION/FORM_VALIDATION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GARAGE_MICHEL/GARAGE_MICHEL.iml" filepath="$PROJECT_DIR$/../GARAGE_MICHEL/GARAGE_MICHEL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HIBERNATE5MODULE/HIBERNATE5MODULE.iml" filepath="$PROJECT_DIR$/../HIBERNATE5MODULE/HIBERNATE5MODULE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ILLUSTRATION/ILLUSTRATION.iml" filepath="$PROJECT_DIR$/../ILLUSTRATION/ILLUSTRATION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../INJECTION/INJECTION.iml" filepath="$PROJECT_DIR$/../INJECTION/INJECTION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../INVERSION_CONTROLE/INVERSION_CONTROLE.iml" filepath="$PROJECT_DIR$/../INVERSION_CONTROLE/INVERSION_CONTROLE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JACKSON_OSIV/JACKSON_OSIV.iml" filepath="$PROJECT_DIR$/../JACKSON_OSIV/JACKSON_OSIV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JAVA_CONFIG/JAVA_CONFIG.iml" filepath="$PROJECT_DIR$/../JAVA_CONFIG/JAVA_CONFIG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JDBCTEMPLATE/JDBCTEMPLATE.iml" filepath="$PROJECT_DIR$/../JDBCTEMPLATE/JDBCTEMPLATE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LOADBALANCED/LOADBALANCED.iml" filepath="$PROJECT_DIR$/../LOADBALANCED/LOADBALANCED.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MODELE/MODELE.iml" filepath="$PROJECT_DIR$/../MODELE/MODELE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MODELE_COMPLET/MODELE_COMPLET.iml" filepath="$PROJECT_DIR$/../MODELE_COMPLET/MODELE_COMPLET.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MODULARITE/MODULARITE.iml" filepath="$PROJECT_DIR$/../MODULARITE/MODULARITE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Nplus1_SELECT/Nplus1_SELECT.iml" filepath="$PROJECT_DIR$/../Nplus1_SELECT/Nplus1_SELECT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OSIV_FALSE/OSIV_FALSE.iml" filepath="$PROJECT_DIR$/../OSIV_FALSE/OSIV_FALSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PATH_VARIABLE/PATH_VARIABLE.iml" filepath="$PROJECT_DIR$/../PATH_VARIABLE/PATH_VARIABLE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PREMIERE_CONNECTION/PREMIERE_CONNECTION.iml" filepath="$PROJECT_DIR$/../PREMIERE_CONNECTION/PREMIERE_CONNECTION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PREMIER_ENDPOINT_MICROSERVICE/PREMIER_ENDPOINT_MICROSERVICE.iml" filepath="$PROJECT_DIR$/../PREMIER_ENDPOINT_MICROSERVICE/PREMIER_ENDPOINT_MICROSERVICE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PROPERTY_VALUE/PROPERTY_VALUE.iml" filepath="$PROJECT_DIR$/../PROPERTY_VALUE/PROPERTY_VALUE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../README.md/README.md.iml" filepath="$PROJECT_DIR$/../README.md/README.md.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RESTCONTROLLER/RESTCONTROLLER.iml" filepath="$PROJECT_DIR$/../RESTCONTROLLER/RESTCONTROLLER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RESTTEMPLATE/RESTTEMPLATE.iml" filepath="$PROJECT_DIR$/../RESTTEMPLATE/RESTTEMPLATE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../REST_INTRO/REST_INTRO.iml" filepath="$PROJECT_DIR$/../REST_INTRO/REST_INTRO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SPEL_ERROR_MESSAGES/SPEL_ERROR_MESSAGES.iml" filepath="$PROJECT_DIR$/../SPEL_ERROR_MESSAGES/SPEL_ERROR_MESSAGES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SPRING_BOOT_PARENT/SPRING_BOOT_PARENT.iml" filepath="$PROJECT_DIR$/../SPRING_BOOT_PARENT/SPRING_BOOT_PARENT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SPRING_BOOT_STARTER_WEB/SPRING_BOOT_STARTER_WEB.iml" filepath="$PROJECT_DIR$/../SPRING_BOOT_STARTER_WEB/SPRING_BOOT_STARTER_WEB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SPRING_DATA_JDBC/SPRING_DATA_JDBC.iml" filepath="$PROJECT_DIR$/../SPRING_DATA_JDBC/SPRING_DATA_JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SPRING_DATA_JPA/SPRING_DATA_JPA.iml" filepath="$PROJECT_DIR$/../SPRING_DATA_JPA/SPRING_DATA_JPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../STATIC_FILES/STATIC_FILES.iml" filepath="$PROJECT_DIR$/../STATIC_FILES/STATIC_FILES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../src/Symfony.iml" filepath="$PROJECT_DIR$/../src/Symfony.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TRANSACTIONNAL/TRANSACTIONNAL.iml" filepath="$PROJECT_DIR$/../TRANSACTIONNAL/TRANSACTIONNAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../VUE_THYMELEAF/VUE_THYMELEAF.iml" filepath="$PROJECT_DIR$/../VUE_THYMELEAF/VUE_THYMELEAF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WEBCLIENT/WEBCLIENT.iml" filepath="$PROJECT_DIR$/../WEBCLIENT/WEBCLIENT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dependabot/dependabot.iml" filepath="$PROJECT_DIR$/../dependabot/dependabot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../master/master.iml" filepath="$PROJECT_DIR$/../master/master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pom.xml/pom.xml1.iml" filepath="$PROJECT_DIR$/../pom.xml/pom.xml1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../script.sh/script.sh.iml" filepath="$PROJECT_DIR$/../script.sh/script.sh.iml" />
+    </modules>
+  </component>
+</project>

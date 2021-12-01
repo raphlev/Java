@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../ANNOTATION_CONFIG" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ANNOTATION_PROPERTY_VALUE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ASSOCIATION_REST" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../AUTOWIRING_BYNAME_BYTYPE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../AUTO_CONFIGURATION" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CLIENT_REGISTRATION" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../COMPONENT_SCAN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CONFIGURATION_BEANS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CONFLIT_DEPENDANCES" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CONTENEUR_LEGER" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CONTRAT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../CONTROLLER" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../DECOUPAGE_MICROSERVICES" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ECRITURE_CONCEPTION" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ECRITURE_DATA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ENTITES_ET_DONNEES" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../EUREKA_SERVER" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../EXPERIMENTER_LOAD_BALANCING" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../EXPLOITER_WEBSERVICE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../FETCH" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../FORM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../FORM_VALIDATION" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../GARAGE_MICHEL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../HIBERNATE5MODULE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ILLUSTRATION" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../INJECTION" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../INVERSION_CONTROLE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../JACKSON_OSIV" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../JAVA_CONFIG" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../JDBCTEMPLATE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../LOADBALANCED" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MODELE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MODELE_COMPLET" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MODULARITE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Nplus1_SELECT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../OSIV_FALSE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PATH_VARIABLE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PREMIERE_CONNECTION" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PREMIER_ENDPOINT_MICROSERVICE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PROPERTY_VALUE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../README.md" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RESTCONTROLLER" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RESTTEMPLATE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../REST_INTRO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SPEL_ERROR_MESSAGES" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SPRING_BOOT_PARENT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SPRING_BOOT_STARTER_WEB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SPRING_DATA_JDBC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SPRING_DATA_JPA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../STATIC_FILES" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../TRANSACTIONNAL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../VUE_THYMELEAF" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../WEBCLIENT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pom.xml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../script.sh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../src" vcs="Git" />
+  </component>
+</project>
